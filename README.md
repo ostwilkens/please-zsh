@@ -13,7 +13,7 @@ It even types it into the input buffer for you. If you don't trust the recommend
 
 Add the following to your ~/.zshrc file, replacing <API_KEY> with your OpenAI api key:
 
-```
+```bash
 # please command
 please(){
     api_key="<API_KEY>"
