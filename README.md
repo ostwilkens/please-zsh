@@ -6,6 +6,7 @@ It even types it into the input buffer for you. If you don't trust the recommend
 ![Screenshot](scrot.png)
 
 # Requirements
+- MacOS
 - zsh shell
 - OpenAI API account (https://openai.com/api/)
 
